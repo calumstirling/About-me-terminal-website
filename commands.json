@@ -1,0 +1,15 @@
+{
+    "help": {
+      "message": "Available commands:",
+      "commands": [
+        "whois",
+        "about",
+        "contact",
+        "projects",
+        "clear",
+        "echo",
+        "help",
+        "attributes"
+      ]
+    }
+  }

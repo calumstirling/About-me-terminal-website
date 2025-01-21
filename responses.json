@@ -1,0 +1,9 @@
+{
+    "whois": "Hey there! My name is Calum. I am a student at Techonological University of Dublin currently studying an honours degree in Computing with Software Development",
+    "about": "One day upon searching for a project to build i happened to stumble across a video of somebody who made their own website in the style of a terminal, this caught my eye and i really liked the look of it so i figured i would attempt to build my own terminal styled website, i may or may not add more commands to this in the future but this was definitely a very fun project which i had completed in a day!",
+    "contact": "You can reach me via email at \"calumsprojects@outlook.com\".",
+    "projects": "You can see all of my available projects at \"https://github.com/calumstirling\".",
+    "echo": "Correct usage: echo (input_text)",
+    "attributes": "work in progress",
+    "commandNotFound": "Command not found. For a list of commands, type <span class='highlighted'>'help'</span>."
+}
