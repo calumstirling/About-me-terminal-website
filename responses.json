@@ -1,9 +1,9 @@
 {
-    "whois": "Hey there! My name is Calum. I am a student at Techonological University of Dublin currently studying an honours degree in Computing with Software Development",
-    "about": "One day upon searching for a project to build i happened to stumble across a video of somebody who made their own website in the style of a terminal, this caught my eye and i really liked the look of it so i figured i would attempt to build my own terminal styled website, i may or may not add more commands to this in the future but this was definitely a very fun project which i had completed in a day!",
-    "contact": "You can reach me via email at \"calumsprojects@outlook.com\".",
-    "projects": "You can see all of my available projects at \"https://github.com/calumstirling\".",
+    "whois": "Hello, My name is Calum Stirling, and I am a student specialising in Computing with Software Development. I have a passion for creating innovative software and building interactive websites with user-friendly UI/UX. This site serves as a showcase of my journey, skills, and projects, as I continue to grow in the ever-evolving tech industry.",
+    "about": "While searching for inspiration for a new project, I came across a video where someone had built a website styled like a terminal. The concept immediately caught my attention, I loved the sleek and minimalist aesthetic. Inspired, I decided to create my own terminal-themed website. It was a challenging yet rewarding experience, and I was thrilled to complete it in just a day! While the site is fully functional, I may expand it in the future by adding more commands and features. This project truly sparked my creativity and deepened my appreciation for web development.",
+    "contact": "Feel free to reach out! Whether you have questions, collaboration ideas, or just want to connect, you can email me at \"calumsprojects@outlook.com\". I would love to hear from you!",
+    "projects": "Explore my projects! You can find all my available work on GitHub at \"github.com/calumstirling\". Take a look and feel free to share your thoughts or feedback!",
     "echo": "Correct usage: echo (input_text)",
-    "attributes": "work in progress",
-    "commandNotFound": "Command not found. For a list of commands, type <span class='highlighted'>'help'</span>."
+    "attributes": "Terminal favicon created by - msidiqf.",
+    "commandNotFound": "Command not found. For a list of commands, type 'help'."
 }
