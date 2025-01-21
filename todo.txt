@@ -1,0 +1,4 @@
+add in functionality to loading commands
+highlight any syntax that might occur i.e "Command not found. For a list of commands, type 'help'." = adjust help to be orange
+add a secret command with a password lock that the user can find somewhere on the webpage
+improve functionality for mobile screens (scaling text)
